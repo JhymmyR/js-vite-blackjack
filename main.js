@@ -1,2 +1,2 @@
-import './src/blackjack/index';  //es opcional colocar el .js 
+import './src/blackjack';
 import './style.css';
